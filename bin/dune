@@ -1,0 +1,4 @@
+(executable
+ (public_name VHDL_compiler)
+ (name main)
+ (libraries VHDL_compiler))

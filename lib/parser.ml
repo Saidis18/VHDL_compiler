@@ -1,8 +1,11 @@
+(* Said Tellez - January 2024*)
+
 (*
 I don't care for complexity - This is just a test
 This is a hand written "parser".
 I will soon try on doing this the "proper" way.
 *)
+
 open Vhdl
 
 let replace = function
